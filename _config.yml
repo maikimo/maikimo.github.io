@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -21,7 +21,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
@@ -31,8 +31,8 @@ owner:
   bio: "A curious fellow."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: mike.james.7946
+  twitter: themaikimo
+  facebook: themaikimo
   google:
     plus: #107357418060947744486
     analytics: 
