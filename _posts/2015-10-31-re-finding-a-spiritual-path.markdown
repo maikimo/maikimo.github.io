@@ -40,8 +40,6 @@ This connects to an earlier striking statement in Dustin's Introduction:
 * _Line_ = the trajectory of possible development along each of numerous parallel aspects of being human (akin to the idea of "multiple intelligences," e.g., spiritual, emotional, relational, moral, sexual, etc.)  
 * _Level_ = _Stage_ ~= _Structure-Stage_ (still working on understanding precision meaning of last term)
 
-Image from  
-http://www.meetup.com/kenwilber-98/events/81189162/
 
 [kwis]: http://www.amazon.com/Integral-Spirituality-Startling-Religion-Postmodern/dp/1590305272/
 [ddsw]: http://www.amazon.com/Streams-Wisdom-Dustin-DiPerna/dp/0989228932/
