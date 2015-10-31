@@ -9,7 +9,12 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+#markdown:    redcarpet
+#
+# MWJ 20151031: Basileia local install of jekyll just does not like pygments.
+# Github's jekyll fusses via email about 'rouge' but I don't care.
+#highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
