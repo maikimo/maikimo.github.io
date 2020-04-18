@@ -10,7 +10,9 @@ image:
   creditlink: https://www.facebook.com/photo.php?fbid=10152386441618426
 ---
 
-> MWJ 20200417: New line entered for GitHub Push test from Standard Notes.
+> MWJ 20200417: New lines entered for GitHub Push test from 
+> Standard Notes. Note content copied from existing file 
+> `maikimo.github.io/_posts/2014-12-31-hello-world.md`
 
 **Lorem ipsum dolor sit amet.** Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in _voluptate_ velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
